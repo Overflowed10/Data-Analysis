@@ -1,3 +1,3 @@
 # Data-Analyst
 
-I created this repository to show my progress at cleaning, analysing and visualising datasets.
+I created this repository to show my progress with cleaning, analysing and visualising datasets.
